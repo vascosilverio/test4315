@@ -1,0 +1,70 @@
+{
+	"id": "00e712c1-2395-ef11-8474-000d3ab84d47",
+	"createdAt": "2024-10-28T11:57:07.726Z",
+	"createdBy": "vasco.silverio@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/vascosilverio/test4315.git"
+	},
+	"name": "test4315",
+	"description": null,
+	"ver": "24.10.28.1200",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [
+		{
+			"id": "308281e0-2395-ef11-8474-000d3ab84d47",
+			"name": "test4315",
+			"description": null
+		}
+	],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [
+		{
+			"id": "9ce1a8fc-2395-ef11-8474-000d3ab84d47",
+			"NAME": "test4315"
+		}
+	],
+	"category": [],
+	"tilegroup_layout": [
+		{
+			"id": "3ca58ef4-2395-ef11-8474-000d3ab84d47",
+			"NAME": "test4315"
+		}
+	],
+	"launchpad": [],
+	"launchpad_layout": [
+		{
+			"id": "3e05ebea-2395-ef11-8474-000d3ab84d47",
+			"NAME": "test4315",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": []
+}
